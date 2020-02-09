@@ -1,0 +1,41 @@
+.block {
+    width: 150px;
+    height: 300px;
+    box-shadow: 0 0 10px 5px rgb(138, 138, 138);
+    border-radius: 10px;
+    border: rgb(111, 117, 117) 2px solid;
+    display: inline-block;
+    margin: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.name {
+    text-align: center;
+}
+
+.space {
+    width: auto;
+    height: 260px;
+    background: rgb(58, 58, 58);
+}
+
+.number {
+    margin-left: 70px;
+    display: inline-block;
+}
+
+body {
+    background-color: rgba(122, 158, 108, 0.349);
+}
+
+footer {
+    font-size: xx-large;
+    text-align: center;
+    background-color: lightsteelblue;
+}
+
+header {
+    font-size: xx-large;
+    text-align: center;
+    background-color: wheat;
+}
